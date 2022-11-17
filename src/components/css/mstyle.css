@@ -1,0 +1,69 @@
+body{
+    background-color: #f2f2f2 !important;    
+}
+
+.more{
+    width: 100%;
+   display:flex;
+}
+
+.hell{
+    height: 370px;
+    width: 270px;
+    background-color: #fff;
+    margin: 0 5px;
+}
+.hell .crts{
+    height:auto;
+    width: 250px;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+.desc{
+    text-align: center;
+}
+.hell .crts img{
+    height: 280px;
+    width: 250px;
+    margin: auto;
+}
+.hell .crts span{
+    font-style: italic;
+    font-weight:bold;
+    font-style: 20px;
+}
+.more .products{
+    width:83%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #fff;
+}
+.hello{
+    width:17%;
+    height:170vh;
+    background-color: #e6e6e6;
+}
+.checks{
+    padding: 5px 0 ;
+}
+.peg{
+    text-align: center;
+    border-top: 1px solid black;
+}
+.peg span{
+    cursor: pointer;
+}
+
+/* boys */
+
+.desc{
+    color: black;
+}
+.crts:hover{
+    background-color: #ccc;
+}
+#color{
+    text-decoration: none !important;
+}

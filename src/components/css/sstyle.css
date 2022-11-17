@@ -1,0 +1,19 @@
+.reg{
+    color: darkorange;
+    border-bottom: 1px solid black;
+  }
+  .btns{
+    text-align: center;
+    width: 180px;
+    height: 48px;
+    border-radius: 8px;
+    background: rgb(248,123,6);
+background: linear-gradient(90deg, rgba(248,123,6,1) 25%, rgba(248,135,6,1) 50%, rgba(248,147,6,1) 75%, rgba(249,152,6,1) 100%, rgba(255,67,0,1) 100%);
+border: 0;
+outline: 0;
+
+  }
+  .btnss{
+    text-align: center;
+  }
+  
